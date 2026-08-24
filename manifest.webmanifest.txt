@@ -1,0 +1,19 @@
+{
+  "name": "مدیریت مشتری",
+  "short_name": "مدیریت مشتری",
+  "description": "اپلیکیشن مدیریت مشتری، فروش و گفتگو با تقویم شمسی",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "fa",
+  "background_color": "#EEF2F0",
+  "theme_color": "#0F5257",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
